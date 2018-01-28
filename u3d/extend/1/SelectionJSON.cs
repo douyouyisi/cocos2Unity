@@ -5,7 +5,11 @@ using UnityEditor;
 using LitJson;
 using UnityEngine.UI;
 
+<<<<<<< HEAD
 //这是dev修改
+=======
+//这是bob修改
+>>>>>>> Bob
 public class SelectionJSON : Editor {
 
 	//添加菜单
